@@ -31,12 +31,6 @@
     ✓ Added Custom Rename Command via vars
     ✓ Added direct rclone.conf url in vars
     
-# TO-DO
--   ~Gdrive file clonning using Gclone~ `DONE ✓`
--   [ ] Adding mp3 files support while playlist downloading.
--   [ ] Password support while Unarchiving the files.
--   [ ] Selection of required files during leeching the big files using aria(/leech command)
-
 # Deploying
 ---
 | How to deploy and Install ?!                                                                                                                 | Name                        | Type          | Lowest-Price Plan                     | Deploy                                                  |
@@ -193,19 +187,3 @@ client_secret =
     renewme - clear all downloads (admin only)⚠️
     log - This will send you a txt file of the logs.(admin only)⚠️
     rclone - This will change your drive config on fly.(First one will be default)--(admin only)⚠️
----
-## How to Use?
-
-### 🥳 send any one of the available command, as a reply to a valid link/magnet/torrent. 👊
-
-
-## Credits, and Thanks to
-* [KangersHub](https://github.com/KangersHub) for Modding 🙄
-* [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
-* [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
-* [Rclone Team](https://rclone.org) for theirs awesome tool☁️
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
-* [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
-* [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
-  [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
