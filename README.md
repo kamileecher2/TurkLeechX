@@ -1,6 +1,3 @@
-<p align="center"> <a href="https://t.me/KangersHub" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
-
----
 
 # Supported :-
     ✓ Google Drive link cloning using gclone.(wip)
